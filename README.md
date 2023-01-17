@@ -1,0 +1,1 @@
+# ssg-text-2-nuxt
